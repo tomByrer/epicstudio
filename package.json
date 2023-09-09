@@ -23,10 +23,7 @@
 		"astro-i18next": "^1.0.0-beta.21",
 		"astro-netlify-cms": "^0.5.4",
 		"astro-seo": "^0.8.0",
-		"gsap": "^3.12.2",
 		"tailwindcss": "^3.3.3",
-		"three": "^0.156.1",
-		"three-stdlib": "^2.25.1",
 		"vanilla-tilt": "^1.8.1"
 	},
 	"devDependencies": {
